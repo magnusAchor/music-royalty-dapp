@@ -43,12 +43,6 @@ This dApp allows artists to create songs, define contributor royalty splits, and
 **Deployment**
 - Firebase Hosting (Frontend)
 
-## 📸 Screenshots
-
-![Music Royalty Dapp Dashboard](./assets/dashboard.png)
-![Allocating Royalties Page](./assets/Allocating.png)
-![Confirming Crypto Transfer](./assets/Confirming.png)
-
 ---
 
 ## 📁 Project Structure
@@ -76,6 +70,11 @@ music-royalty-dapp/
 └── README.md
 
 ````
+## 📸 Screenshots
+
+![Music Royalty Dapp Dashboard](./assets/dashboard.png)
+![Allocating Royalties Page](./assets/Allocating.png)
+![Confirming Crypto Transfer](./assets/Confirming.png)
 
 ---
 
