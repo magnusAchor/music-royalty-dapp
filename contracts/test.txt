@@ -1,0 +1,7 @@
+scripts/deploy.cjs
+blockchain/factory.js
+CreateSong.jsx
+Dashboard.jsx
+App.jsx
+main.jsx
+SongDetails.jsx
