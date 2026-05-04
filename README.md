@@ -274,7 +274,7 @@ Factory pattern creates independent royalty contracts per song.
 
 ## 👨‍💻 Author
 
-Built by **Magnus Achor (Daddi Cool)**
+Built by **Magnus Achor**
 Software Engineer | Web3 Developer | Digital Creator
 
 ---
