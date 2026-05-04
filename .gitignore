@@ -57,4 +57,5 @@ frontend/*.ntvs*
 *.njsproj
 frontend/*.sln
 frontend/*.sw?
+frontend/.firebaserc
 
