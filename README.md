@@ -72,10 +72,13 @@ music-royalty-dapp/
 ````
 ## 📸 Screenshots
 
+````
+
 ![Music Royalty Dapp Dashboard](./assets/dashboard.png)
 ![Allocating Royalties Page](./assets/Allocating.png)
 ![Confirming Crypto Transfer](./assets/Confirming.png)
 
+````
 ---
 
 ## ⚙️ Smart Contract Architecture
